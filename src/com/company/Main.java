@@ -13,8 +13,9 @@ public class Main {
 
     public static void main(String[] args) throws Exception{
 
-        String file1 = "/media/hanaria/A0C43646C4361F4A1/Java Rush/fileReadWrite/pattern.txt";
-        String file2 = "/media/hanaria/A0C43646C4361F4A1/Java Rush/fileReadWrite/input.txt";
+        /* Your txt files loction */
+        String file1 = "../pattern.txt";
+        String file2 = "../input.txt";
 
         List<String> patternList = new ArrayList<String>();
         List<String> inputList = new ArrayList<String>();
